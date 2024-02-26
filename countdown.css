@@ -1,0 +1,31 @@
+body{
+    background-image:url(background.png);
+}
+#timer{
+    color: rgb(23,255,120);
+    text-align: center;
+    background-color:rgba(218,165,32,0.55);
+    display: flex;
+    font-size: 90px;
+    font-weight: 300;
+}
+
+h1{
+    color: rgb(23,255,120);
+    font-size: 65px;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+}
+h1.name{
+    color:rgb(23,255,120);
+    font-size:20px;
+    text-align: center;
+}
+p.launch{
+    color: goldenrod;
+    text-align: center;
+    font-size:45px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
